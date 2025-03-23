@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class EnquiryForm {
-
+//hello
 	private String studeName;
 	private Integer studPhon;
 	private String classMode;
